@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/better-dog-challenge/static/css/main.14f8e520.chunk.css",
+    "main.js": "/better-dog-challenge/static/js/main.d819bbea.chunk.js",
+    "main.js.map": "/better-dog-challenge/static/js/main.d819bbea.chunk.js.map",
+    "runtime-main.js": "/better-dog-challenge/static/js/runtime-main.4c948ac0.js",
+    "runtime-main.js.map": "/better-dog-challenge/static/js/runtime-main.4c948ac0.js.map",
+    "static/css/2.11829350.chunk.css": "/better-dog-challenge/static/css/2.11829350.chunk.css",
+    "static/js/2.eaedf8e4.chunk.js": "/better-dog-challenge/static/js/2.eaedf8e4.chunk.js",
+    "static/js/2.eaedf8e4.chunk.js.map": "/better-dog-challenge/static/js/2.eaedf8e4.chunk.js.map",
+    "index.html": "/better-dog-challenge/index.html",
+    "precache-manifest.13744c6b6510b04dd1d90867977f6e56.js": "/better-dog-challenge/precache-manifest.13744c6b6510b04dd1d90867977f6e56.js",
+    "service-worker.js": "/better-dog-challenge/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/better-dog-challenge/static/css/2.11829350.chunk.css.map",
+    "static/css/main.14f8e520.chunk.css.map": "/better-dog-challenge/static/css/main.14f8e520.chunk.css.map",
+    "static/js/2.eaedf8e4.chunk.js.LICENSE.txt": "/better-dog-challenge/static/js/2.eaedf8e4.chunk.js.LICENSE.txt",
+    "static/media/hazel.jpg": "/better-dog-challenge/static/media/hazel.4eb85e80.jpg",
+    "static/media/tubby.jpg": "/better-dog-challenge/static/media/tubby.2f47cb65.jpg",
+    "static/media/whiskey.jpg": "/better-dog-challenge/static/media/whiskey.5c1e3b17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c948ac0.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.eaedf8e4.chunk.js",
+    "static/css/main.14f8e520.chunk.css",
+    "static/js/main.d819bbea.chunk.js"
+  ]
+}
